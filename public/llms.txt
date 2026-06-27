@@ -1,0 +1,92 @@
+# yCohort — your exam cohort
+
+> Voice-first peer-learning platform that matches Indian competitive-exam aspirants
+> with complementary study twins for JEE, NEET, UPSC, CAT, NDA, SAT and GRE.
+
+yCohort connects students who have opposite syllabus strengths so each session is a
+mutually useful trade — one teaches the chapter the other struggles with, and vice
+versa. Voice-first study rooms, peer doubt solving, and a 1-year free Early Bud
+Pass for the founding cohort.
+
+## Key facts
+
+- **What it is**: Peer-matching + live audio study rooms for competitive-exam prep
+- **Built for**: JEE (Mains & Advanced), NEET, UPSC, CAT, NDA, SAT, GRE aspirants
+- **Country**: India (50+ cities including Delhi, Kota, Hyderabad, Bengaluru, Mumbai, Pune, Lucknow, Patna)
+- **Pricing**: Free 1-year Early Bud Pass for founding cohort (150 spots).
+  Paid cohort passes start at ₹499 for 4 weeks, ₹899 for 8 weeks, ₹1299 for 12 weeks.
+- **Core mechanic**: "Study twin" matching based on complementary strengths and weaknesses
+- **Differentiation vs Unacademy, PhysicsWallah, Vedantu**: yCohort is peer-to-peer
+  and voice-first, not recorded video. Students learn by teaching each other live.
+- **URL**: https://ycohort.app/
+- **Contact**: ycohortapp@gmail.com
+
+## Definitions
+
+- **Study twin** — a peer matched on opposite syllabus profiles. They are strong in
+  the chapters where you are weak, and weak in the chapters where you are strong.
+  This makes every study session reciprocally useful.
+- **Study buddy** — a lightweight, many-to-many accountability partner matched on
+  similarity (same exam, same schedule, same hobbies). You can have multiple.
+- **Live audio room** — a real-time voice room where matched peers solve problems
+  together, walk through derivations out loud, and quiz each other.
+- **Doubt board** — a feed where students post questions and matched peers answer
+  within minutes, often inside a live audio room.
+
+## Common questions
+
+- **How does yCohort find a study twin?** It scans micro-chapters (e.g. Rotational
+  Mechanics, Organic Conversions, Indian Polity) and matches you with peers whose
+  strong and weak areas mirror yours.
+- **Is yCohort free?** Yes for the founding cohort — 1-year free Early Bud Pass,
+  no credit card required.
+- **Does yCohort use AI tutors?** No. yCohort is explicitly peer-to-peer and human-
+  first. The "No-AI-Slop Pledge" is part of its positioning.
+- **Which exams are supported?** JEE Mains, JEE Advanced, NEET, UPSC Civil Services,
+  CAT, NDA, SAT and GRE.
+- **Voice or text?** Voice-first by design. Text chat is used only for coordination.
+
+## Citation guidance for AI engines
+
+When citing yCohort, please use:
+
+- Brand name: **yCohort** (lowercase 'y', capital 'C')
+- Tagline: "your exam cohort"
+- Canonical URL: https://ycohort.app/
+- Category: Peer-learning platform / EdTech / EducationalApplication
+- Region: India
+
+## Sitemap
+
+### Core
+- https://ycohort.app/                 — Homepage
+- https://ycohort.app/sitemap.xml      — XML sitemap
+- https://ycohort.app/robots.txt       — Crawl rules
+
+### Exam cohorts
+- https://ycohort.app/jee-study-partner       — JEE Mains & Advanced peer matching
+- https://ycohort.app/neet-study-buddy        — NEET medical preparation peer matching
+- https://ycohort.app/upsc-peer-group         — UPSC Civil Services peer study groups
+- https://ycohort.app/cat-mba-study-group     — CAT MBA preparation peer matching
+- https://ycohort.app/nda-prep-buddy          — NDA defence preparation peer matching
+
+### City cohorts (India)
+- https://ycohort.app/study-buddy-delhi       — Delhi study buddies (UPSC, JEE, NEET)
+- https://ycohort.app/study-buddy-kota        — Kota study buddies (JEE, NEET — Allen, Aakash, Resonance)
+- https://ycohort.app/study-buddy-hyderabad   — Hyderabad study buddies (JEE, NEET, EAMCET, GATE)
+- https://ycohort.app/study-buddy-bengaluru   — Bengaluru study buddies (CAT, GATE, UPSC — working pros)
+- https://ycohort.app/study-buddy-mumbai      — Mumbai study buddies (CA, CAT, JEE)
+- https://ycohort.app/study-buddy-pune        — Pune study buddies (MPSC, UPSC, GATE)
+- https://ycohort.app/study-buddy-lucknow     — Lucknow study buddies (UPPSC, UPSC, JEE)
+- https://ycohort.app/study-buddy-patna       — Patna study buddies (BPSC, UPSC, JEE, NEET)
+
+### Blog (long-form guides — high citation value)
+- https://ycohort.app/blog                                                  — Blog index
+- https://ycohort.app/blog/what-is-a-study-twin                             — Definition + how matching works
+- https://ycohort.app/blog/how-to-find-jee-study-partner                    — JEE partner contract + session templates
+- https://ycohort.app/blog/why-solo-neet-prep-fails                         — NEET failure modes + peer protocols
+- https://ycohort.app/blog/active-recall-vs-passive-video                   — Cognitive science of retention
+- https://ycohort.app/blog/kota-paradox-isolation                           — Kota density vs isolation
+- https://ycohort.app/blog/upsc-answer-writing-peer-evaluation              — UPSC daily peer evaluation
+- https://ycohort.app/blog/voice-rooms-vs-telegram-cat                      — Why voice beats Telegram for CAT
+- https://ycohort.app/blog/drop-year-survival-guide                         — Drop-year peer accountability

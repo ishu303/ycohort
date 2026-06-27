@@ -1,0 +1,8 @@
+{
+  "name": "Remix: yCohort",
+  "description": "Voice-first co-learning platform for competitive exams like JEE, NEET, and UPSC. Match with complementary Exam Twins, find similar Study Buddies for lightweight accountability, and join live audio study rooms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
